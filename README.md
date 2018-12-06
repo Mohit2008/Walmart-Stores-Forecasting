@@ -45,3 +45,12 @@ Average for 10 folds:
 ## Run Time
 
 The script completed its full run on all 10 folds in 36.92372 mins.
+
+
+
+## How to run the mode:
+Run the file eval.R in a directory that contains train.csv, test.csv and fold[1-9].csv.
+
+## Dataset 
+
+The dataset comes from the Kaggle competition  https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting 
