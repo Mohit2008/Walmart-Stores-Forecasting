@@ -35,8 +35,9 @@ I started off by doing some exploratory data analysis to get a first-hand feel o
 
 ## Results:
 
-Average for 10 folds:
+Evaluation metric that we used was weighted mean absolute error
 
+Average for 10 folds:
 -	model_one = 1833.434
 -	model_two =1563.772
 -	model_three = 1888.006
