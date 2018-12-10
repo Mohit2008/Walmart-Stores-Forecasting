@@ -49,7 +49,7 @@ The script completed its full run on all 10 folds in 36.92372 mins.
 
 
 
-## How to run the mode:
+## How to run the model:
 Run the file eval.R in a directory that contains train.csv, test.csv and fold[1-9].csv.
 
 ## Dataset 
